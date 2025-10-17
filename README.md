@@ -11,4 +11,11 @@ This is the change from the commit you are currently applying (pick 1be7407)
 
 This is the change from the base commit (onto 7801b72)
  1be7407 (Local conflicting change)
+HEAD
  22
+
+task 3 step 2
+111
+2222
+11
+ 3231f47b29dac2d21987b95207df6badf6566907
